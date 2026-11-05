@@ -39,6 +39,9 @@ CREATE Table IF NOT EXISTS Anac (
     Nome_do_Fabricante VARCHAR(100)
 );
 
+
+
+
 -- ==============================================================================
 -- COMANDOS SQL ADICIONAIS PARA O PROJETO:
 -- ==============================================================================
